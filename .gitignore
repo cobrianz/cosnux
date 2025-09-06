@@ -8,7 +8,7 @@
 /out/
 
 # production
-/build
+gibuild
 
 # debug
 npm-debug.log*
